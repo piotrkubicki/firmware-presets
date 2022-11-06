@@ -305,6 +305,7 @@
       "freetyle",
       "frsky",
       "Garban",
+      "general",
       "GEPRC",
       "ghost",
       "GHST",
@@ -853,6 +854,24 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/modes/niemrawy.txt",
+      "hash": "12d0c83e30e585d234d221c74ec655c06b7c3f332420c4efa6dd5519932732fe",
+      "title": "My general modes",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "mode",
+        "modes",
+        "aux",
+        "switch"
+      ],
+      "author": "Niemrawy",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/osd/UAV_tech_Analog.txt",
       "hash": "b304bd4f3d0e6ab42840badced7e07847ca654c5fd048dba8c53b96128788763",
       "title": "UAV Tech - Analog",
@@ -913,6 +932,22 @@
         "OSD"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/niemrawy_analog.txt",
+      "hash": "8ad93dc23261576b7dcaa8abfba27d5665d2d948af4cba6f94e8c83d644a6d97",
+      "title": "My general osd",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "osd",
+        "general"
+      ],
+      "author": "Niemrawy",
       "priority": 0
     },
     {
